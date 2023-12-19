@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Virtual Art Gallery", "Virtual Art Gallery.csproj", "{F1036954-A671-4874-A09A-FAFAE2F474CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Virtual Art Gallery Testing", "..\Virtual Art Gallery Testing\Virtual Art Gallery Testing.csproj", "{D2B83DD6-8C16-4210-9D5D-20EC164CEAFC}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F1036954-A671-4874-A09A-FAFAE2F474CE} = {F1036954-A671-4874-A09A-FAFAE2F474CE}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1036954-A671-4874-A09A-FAFAE2F474CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1036954-A671-4874-A09A-FAFAE2F474CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1036954-A671-4874-A09A-FAFAE2F474CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1036954-A671-4874-A09A-FAFAE2F474CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2B83DD6-8C16-4210-9D5D-20EC164CEAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2B83DD6-8C16-4210-9D5D-20EC164CEAFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2B83DD6-8C16-4210-9D5D-20EC164CEAFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2B83DD6-8C16-4210-9D5D-20EC164CEAFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0F64BBA-5879-4A14-BF4B-59FC2D352CB7}
+	EndGlobalSection
+EndGlobal

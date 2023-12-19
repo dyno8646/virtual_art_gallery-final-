@@ -1,0 +1,76 @@
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\Virtual Art Gallery.exe
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\Virtual Art Gallery.deps.json
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\Virtual Art Gallery.runtimeconfig.json
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\Virtual Art Gallery.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\Virtual Art Gallery.pdb
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\nunit.framework.legacy.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\obj\Debug\net6.0\Virtual Art Gallery.csproj.AssemblyReference.cache
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\obj\Debug\net6.0\Virtual Art Gallery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\obj\Debug\net6.0\Virtual Art Gallery.AssemblyInfoInputs.cache
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\obj\Debug\net6.0\Virtual Art Gallery.AssemblyInfo.cs
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\obj\Debug\net6.0\Virtual Art Gallery.csproj.CoreCompileInputs.cache
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\obj\Debug\net6.0\Virtual Art Gallery.csproj.CopyComplete
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\obj\Debug\net6.0\Virtual Art Gallery.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\obj\Debug\net6.0\refint\Virtual Art Gallery.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\obj\Debug\net6.0\Virtual Art Gallery.pdb
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\obj\Debug\net6.0\Virtual Art Gallery.genruntimeconfig.cache
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\obj\Debug\net6.0\ref\Virtual Art Gallery.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\obj\Debug\net6.0\Virtual Art Gallery.sourcelink.json
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\appsettings.json
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\nunit.engine.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\nunit.engine.api.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\nunit.engine.core.dll
+C:\Users\lavan\OneDrive\Desktop\.Net_Codes\Virtual Art Gallery\bin\Debug\net6.0\testcentric.engine.metadata.dll
